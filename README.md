@@ -10,7 +10,7 @@ Collaboration page for reverse engineering a trove of Duhampel Flipdot displays
 - [ ] Select, test, and prove Power-Supply (must supply +12V and -12V)
 - [ ] Select, test, and prove **individua**l flipdot **SET** control chipset / componentry
   - [ ] [SN754410 Quadruple Half-H Driver](https://www.ti.com/lit/ds/symlink/sn754410.pdf) ??
-- [ ] Select, test, and prove **full line** flipdot **RESET** control chipset / componentry - may pull ~16A at -12V
+- [ ] Select, test, and prove **full line** flipdot **RESET** control chipset / componentry - may pull up to ~16A at 12V!!
 - [ ] Select, test and prove Microcontroller (leaning towards ESP32 Dev based solution, but open to suggestions)
 - [ ] Develop control library for microcontroller 
 - [ ] Prove daisy-chaining of modules and the principals
