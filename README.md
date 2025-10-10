@@ -8,7 +8,8 @@ Collaboration page for reverse engineering a trove of Duhampel Flipdot displays
 - [x] Document  individual Module 3D characteristics (as documented [here](Assets/Assets/FlipDot_Module-Simplified_Interface_Drawing_DPE.pdf), thanks to DPE)
 - [x] Select Module to Module Connector, See Ref 1 below
 - [ ] Select, test, and prove Power-Supply
-- [ ] Select, test, and prove Power control chipset / componentry
+- [ ] Select, test, and prove individual flipdot control chipset / componentry
+  - [ ] [SN754410 Quadruple Half-H Driver](https://www.ti.com/lit/ds/symlink/sn754410.pdf) ??
 - [ ] Select, test and prove Microcontroller (leaning towards ESP32 Dev based solution, but open to suggestions)
 - [ ] Develop control library for microcontroller 
 - [ ] Prove daisy-chaining of modules and the principals
