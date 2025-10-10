@@ -5,9 +5,13 @@ Collaboration page for reverse engineering of Flipdot displays
 
 ## To do list
 - [x] Select Connector
-- [x] Document circuit board individual Module Components (as documented [here](path%20with%20spaces/other_file.md), thanks VVA!)
-- [ ] Select Power-Supply
-- [ ] Select Power control chipset / componentry
+- [x] Document individual Module Components circuitry (as documented [here](Assets/Schematic_Module-pastille_2025-06-01_VVA.pdf), thanks to VVA!)
+- [x] Document  individual Module 3D characteristics (as documented [here](Assets/Module_2D_Drawing), thanks to DPE)
+- [ ] Select, test, and prove Power-Supply
+- [ ] Select, test, and prove Power control chipset / componentry
+- [ ] Select, test and prove Microcontroller (leaning towards ESP32 Dev based solution, but open to suggestions)
+- [ ] Develop control library for microcontroller 
+- [ ] Prove daisy-chaining of modules and the principals
 - [ ] Complete Prototype with Surface Mount Components on Protoboard
 - [ ] Transform Surface Mount solution Custom Circuit Board
 - [ ] Mechanical & surface mounting integraion for wife approval process
