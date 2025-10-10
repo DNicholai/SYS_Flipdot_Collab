@@ -14,7 +14,7 @@ Collaboration page for reverse engineering of Flipdot displays
 - [ ] Prove daisy-chaining of modules and the principals
 - [ ] Complete Prototype with Surface Mount Components on Protoboard
 - [ ] Transform Surface Mount solution Custom Circuit Board
-- [ ] Mechanical & surface mounting integraion for wife approval process
+- [ ] Mechanical & surface mounting integration for wife approval process
 - [ ] Add delight to the experience when all tasks are complete :tada:
 
 ## Bill of Materials / Shopping List
