@@ -18,8 +18,8 @@ Collaboration page for reverse engineering a trove of Duhampel Flipdot displays
 - [ ] Add delight to the experience when all tasks are complete :tada:
 
 ## Bill of Materials / Shopping List
-| Ref | Description | Maturity | Source |
-| --- | --- | --- | --- |
-| 1 | 2.54mm 2x17 Pin 34 Pin Straight Male Shrouded PCB Box header IDC Socket | Selected, tested | [Aliexpress](https://fr.aliexpress.com/item/1005002763733694.html?spm=a2g0o.order_list.order_list_main.11.3d971802Kre3jq&gatewayAdapt=glo2fra) - 4,5€ shipped for 10x  |
+| Ref | Description | Maturity | Source | Protoboard Compatible |
+| --- | --- | --- | --- | --- |
+| 1 | 2.54mm 2x17 Pin 34 Pin Straight Male Shrouded PCB Box header IDC Socket | Selected, tested | [Aliexpress](https://fr.aliexpress.com/item/1005002763733694.html?spm=a2g0o.order_list.order_list_main.11.3d971802Kre3jq&gatewayAdapt=glo2fra) - 4,5€ shipped for 10x  | Yes |
 | 2 | Other confirmed components to follow shortly... |
 
