@@ -17,7 +17,7 @@ Collaboration page for reverse engineering of Flipdot displays
 - [ ] Mechanical & surface mounting integraion for wife approval process
 - [ ] Add delight to the experience when all tasks are complete :tada:
 
-## Bill of Materials / AKA Shopping List
+## Bill of Materials / Shopping List
 | Ref | Description | Maturity | Source |
 | --- | --- | --- | --- |
 | 1 | 2.54mm 2x17 Pin 34 Pin Straight Male Shrouded PCB Box header IDC Socket | Selected, tested | [Aliexpress](https://fr.aliexpress.com/item/1005002763733694.html?spm=a2g0o.order_list.order_list_main.11.3d971802Kre3jq&gatewayAdapt=glo2fra) - 4,5€ shipped for 10x  |
