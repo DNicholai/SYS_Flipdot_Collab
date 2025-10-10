@@ -1,7 +1,7 @@
 # SYS_Flipdot_Collab
 ![Screenshot of a comment on a GitHub image flipdog.](https://github.com/DNicholai/SYS_Flipdot_Collab/blob/main/Assets/flipdot.jpg)
 
-Collaboration page for reverse engineering of Flipdot displays
+Collaboration page for reverse engineering a trove of Duhampel Flipdot displays
 
 ## To do list
 - [x] Document individual Module Components circuitry (as documented [here](Assets/Schematic_Module-pastille_2025-06-01_VVA.pdf), thanks to VVA!)
@@ -21,5 +21,5 @@ Collaboration page for reverse engineering of Flipdot displays
 | Ref | Description | Maturity | Source |
 | --- | --- | --- | --- |
 | 1 | 2.54mm 2x17 Pin 34 Pin Straight Male Shrouded PCB Box header IDC Socket | Selected, tested | [Aliexpress](https://fr.aliexpress.com/item/1005002763733694.html?spm=a2g0o.order_list.order_list_main.11.3d971802Kre3jq&gatewayAdapt=glo2fra) - 4,5€ shipped for 10x  |
-| 2 | Show file differences that **haven't been** staged |
+| 2 | Other confirmed components to follow shortly... |
 
