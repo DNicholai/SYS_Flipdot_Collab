@@ -23,4 +23,5 @@ Collaboration page for reverse engineering a trove of Duhampel Flipdot displays
 | Ref | Description | Maturity | Source | Protoboard Compatible |
 | --- | --- | --- | --- | --- |
 | 1 | 2.54mm 2x17 Pin 34 Pin Straight Male Shrouded PCB Box header IDC Socket | Selected, tested | [Aliexpress](https://fr.aliexpress.com/item/1005002763733694.html?spm=a2g0o.order_list.order_list_main.11.3d971802Kre3jq&gatewayAdapt=glo2fra) - 4,5€ shipped for 10x  | Yes |
-| 2 |  ULN2003A high-voltage, high-current NPN Darlington transistor pairs | Selected, NOT tested | [InfoElec - based in FR](https://www.infoelec-shop.fr/accueil/1838-uln2003a.html) - 0,7€ each & 4€ shipping | Yes |
+| 2 |  ULN2003A high-voltage, high-current NPN Darlington transistor pairs | Not selected, tested | [InfoElec - based in FR](https://www.infoelec-shop.fr/accueil/1838-uln2003a.html) - 0,7€ each & 4€ shipping | Yes |
+|  |  IRL540N high-voltage, high-current single mosfet | Selected, not tested | [InfoElec - based in FR](https://www.infoelec-shop.fr/accueil/1838-uln2003a.html) - 10 for less than 3€, need 17 per girouette at least | Yes |
