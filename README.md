@@ -19,6 +19,11 @@ Collaboration page for reverse engineering a trove of Duhampel Flipdot displays
 - [ ] Mechanical & surface mounting integration for wife approval process
 - [ ] Add delight to the experience when all tasks are complete :tada:
 
+
+# Requirements 
+> [!NOTE]
+> Requirements spec here.
+
 ## Bill of Materials / Shopping List
 | Ref | Description | Maturity | Source | Protoboard Compatible |
 | --- | --- | --- | --- | --- |
